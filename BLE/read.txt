@@ -1,0 +1,26 @@
+
+ESP_BLE_SERVER_V2_0814 
+
+Recive , Send 확인
+양호 ㅇ
+
+0817, original 파일이랑은 달라
+----------------------------
+
+ESP_BLE_SERVER_V1_0817 
+
+합본으로 진행
+
+----------------------------
+ESP_IfBreak_Return
+
+Original에 Esp Ble끊기면 재연결 해보는것 시도중 8.18~
+
+>> 생각해보니 rpi쪽에서 끊기는거
+
+>>disconnect뜨고 재연결 시도해도 되잖아 ? 다시해보자 
+
+-----------------------------
+0819_Original_test_boardlate
+
+original 파일 보드레이트 9600 > 11500 변경
